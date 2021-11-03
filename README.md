@@ -23,7 +23,7 @@ ill u have just to do check the tokens with the discord token cheacker witch is 
 
 *require : npm install
 
-*after that u need to run the checker with node index.js Command
+** after that u need to run the checker with node index.js Command
 
 * It takes time to check tokens
 
