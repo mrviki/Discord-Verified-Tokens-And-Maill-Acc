@@ -25,10 +25,10 @@ ill u have just to do check the tokens with the discord token cheacker witch is 
 
 *after that u need to run the checker with node index.js Command
 
-*It takes time to check tokens
+* It takes time to check tokens
 
-*when its done check your output folder and u can find Verified Tokens
+* when its done check your output folder and u can find Verified Tokens
 
-*DONE
+* DONE
 
-*if u have any question dm me : PG_VIKI#0160
+* if u have any question dm me : PG_VIKI#0160
