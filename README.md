@@ -19,7 +19,7 @@ ill u have just to do check the tokens with the discord token cheacker witch is 
 
 * all u have to do just change the name of txt file to (tokens.txt)
 
-* when u done with that download the token checker 
+* when u done with that download the token checker zip file and extract it 
 
 * require : npm install
 
@@ -28,6 +28,8 @@ ill u have just to do check the tokens with the discord token cheacker witch is 
 * It takes time to check tokens
 
 * when its done check your output folder and u can find Verified Tokens
+
+* Token checker by : https://github.com/Lemons1337/Discord-Token-Checker
 
 * DONE
 
