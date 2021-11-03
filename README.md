@@ -7,7 +7,7 @@ ill u have just to do check the tokens with the discord token cheacker witch is 
 
 # Guide for [Mail Access] : 
 
-**for make access accounts u need to test Try it one by one cuz there is no app or script for checking [Mail Access]  (as far as I know) 
+**for make access accounts u need to test Try it one by one cuz there is no app or script for checking [Mail Access]  (as far as I know) **
 
 **all [Mail Access] will be in a txt file named (discord maill acc)**
 
