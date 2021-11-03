@@ -13,7 +13,7 @@ ill u have just to do check the tokens with the discord token cheacker witch is 
 
 * now lets talk about the tokens 
 
-* Guide for TOKENS! :
+#  Guide for TOKENS! :
 
 * i just paste all 20000x tokens in a txt file named (20000 x Verified tokens)
 
