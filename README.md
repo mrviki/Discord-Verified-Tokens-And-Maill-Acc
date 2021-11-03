@@ -9,7 +9,7 @@ ill u have just to do check the tokens with the discord token cheacker witch is 
 
 * for make access accounts u need to test Try it one by one cuz there is no app or script for checking [Mail Access]  (as far as I know) 
 
-* all [Mail Access] will be in a txt file named (discord maill acc)**
+* all [Mail Access] will be in a txt file named (discord maill acc)
 
 * now lets talk about the tokens 
 
